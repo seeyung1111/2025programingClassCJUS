@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Cju\\Documents\\GitHub\\2025programingClassCJUS\\helloworld3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cju\\Documents\\GitHub\\2025programingClassCJUS\\Project4\\Project4.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{721A0850-A6F2-409A-A21C-DECD06212AD4}|helloworld3.vcxproj|C:\\Users\\Cju\\Documents\\GitHub\\2025programingClassCJUS\\helloworld3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{721A0850-A6F2-409A-A21C-DECD06212AD4}|helloworld3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Project4.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\Cju\\Documents\\GitHub\\2025programingClassCJUS\\Project4\\Project4.vcxproj.filters",
+              "RelativeDocumentMoniker": "..\\Project4\\Project4.vcxproj.filters",
+              "ToolTip": "C:\\Users\\Cju\\Documents\\GitHub\\2025programingClassCJUS\\Project4\\Project4.vcxproj.filters",
+              "RelativeToolTip": "..\\Project4\\Project4.vcxproj.filters",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T07:37:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Cju\\Documents\\GitHub\\2025programingClassCJUS\\helloworld3\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
