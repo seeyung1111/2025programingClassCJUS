@@ -2,10 +2,10 @@
 int  main()
 {
 	//=== Basic Constants ===
-	printf("Name   : Seeyung");
-		printf("Initial : S");
-		printf   ("Age : 21");
-		printf   ("Score : 93.500000");
-		printf   ("count : 3000000000");
+	printf("Name   : Seeyung\n");
+		printf("Initial : S\n");
+		printf("Age : 21\n");
+		printf("Score : 93.500000\n");
+		printf("count : 3000000000\n");
 		return 0;
 }
