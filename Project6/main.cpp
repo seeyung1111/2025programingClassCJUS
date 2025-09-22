@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-#define PI_VALUE 3.141592
+#define PI_VALUE 3.14159265358979323846
 
 int main(void)
 {
+    int version = 1;
     const int year = 2025;
 
     const char* title = "C\nprint\n demo";
