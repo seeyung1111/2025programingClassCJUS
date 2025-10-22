@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\do-while\uBB38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C08FB5-7AC6-4B50-AC5D-6F9F3F5777C6}|do-while\uBB38\\do-while\uBB38.vcxproj|C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\do-while\uBB38\\do-while\uBB38\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31C08FB5-7AC6-4B50-AC5D-6F9F3F5777C6}|do-while\uBB38\\do-while\uBB38.vcxproj|solutionrelative:do-while\uBB38\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\do-while\uBB38\\do-while\uBB38\\main.cpp",
+              "RelativeDocumentMoniker": "do-while\uBB38\\main.cpp",
+              "ToolTip": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\do-while\uBB38\\do-while\uBB38\\main.cpp",
+              "RelativeToolTip": "do-while\uBB38\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T11:16:27.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
