@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\kohyu\Documents\GitHub\2025programingClassCJUS\Project9\main.cpp(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
