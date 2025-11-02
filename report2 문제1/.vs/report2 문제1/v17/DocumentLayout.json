@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\report2 \uBB38\uC81C1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{878B3E33-5ADF-484B-83CB-C771BD8C6388}|report2 \uBB38\uC81C1\\report2 \uBB38\uC81C1.vcxproj|C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\report2 \uBB38\uC81C1\\report2 \uBB38\uC81C1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{878B3E33-5ADF-484B-83CB-C771BD8C6388}|report2 \uBB38\uC81C1\\report2 \uBB38\uC81C1.vcxproj|solutionrelative:report2 \uBB38\uC81C1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\report2 \uBB38\uC81C1\\report2 \uBB38\uC81C1\\main.cpp",
+              "RelativeDocumentMoniker": "report2 \uBB38\uC81C1\\main.cpp",
+              "ToolTip": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\report2 \uBB38\uC81C1\\report2 \uBB38\uC81C1\\main.cpp",
+              "RelativeToolTip": "report2 \uBB38\uC81C1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T06:38:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
