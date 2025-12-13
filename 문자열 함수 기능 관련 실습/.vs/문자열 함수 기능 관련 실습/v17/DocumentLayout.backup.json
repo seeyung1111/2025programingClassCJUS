@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83CFB53D-5CE2-4864-B64D-E1702ED5D962}|\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5.vcxproj|C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83CFB53D-5CE2-4864-B64D-E1702ED5D962}|\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5.vcxproj|solutionrelative:\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\main.cpp",
+              "RelativeDocumentMoniker": "\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\main.cpp",
+              "ToolTip": "C:\\Users\\kohyu\\Documents\\GitHub\\2025programingClassCJUS\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\main.cpp",
+              "RelativeToolTip": "\uBB38\uC790\uC5F4 \uD568\uC218 \uAE30\uB2A5 \uAD00\uB828 \uC2E4\uC2B5\\main.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-13T10:24:01.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
